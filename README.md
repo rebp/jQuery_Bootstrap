@@ -1,2 +1,2 @@
-# jQuery Mobile
-> A jQuery Mobile template to start a new project.
+# jQuery & Bootstrap
+> A jQuery & Bootsrap template to start a new project.
